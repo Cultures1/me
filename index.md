@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ONLINE STUDENT CLEARANCE SYSTEM
 
 You can use the [editor on GitHub](https://github.com/Cultures1/me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
